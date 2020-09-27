@@ -44,11 +44,11 @@ projects:
     assignments:
       - title: Industrial Design Competition (엔지니어링 산업설계대전, 산업통상자원부, 3rd Award)
         link: "#hook"
-        tagline: "In the competition, I joined as a team and proposed Design of utilizing Deep Learning to detect Road damage through vehicle black box. <br> We substituted a black box for a RaspberryPi 3B+ with Intel Movidius VPU and various sensors. <br> I developed relay Module in Android and fine-tuned Mobilenet-SSD model."
+        tagline: "<br>In the competition, I joined as a team and proposed Design of utilizing Deep Learning to detect Road damage through vehicle black box. <br> We substituted a black box for a RaspberryPi 3B+ with Intel Movidius VPU and various sensors. <br> I developed relay Module in Android and fine-tuned Mobilenet-SSD model."
 
       - title: A study on the Construction Methodology and Prototype System of Information Classification System (Smart System Lab, Yonsei)
         link: "#"
-        tagline: "Thanks to Professor Woojoo Kim, I had the opportunity to participate in the project. <br> Objective of Project is to propose contradiction-reasoning based on Ontology for industrial document. <br> My task is to preprocess various types of data on a rule-based basis for Elastic-search migration and utilize NLTK and spaCy for dependency parsing."
+        tagline: "<br>Thanks to Professor Woojoo Kim, I had the opportunity to participate in the project. <br> Objective of Project is to propose contradiction-reasoning based on Ontology for industrial document. <br> My task is to preprocess various types of data on a rule-based basis for Elastic-search migration and utilize NLTK and spaCy for dependency parsing."
 
 publications:
     title: Paper
