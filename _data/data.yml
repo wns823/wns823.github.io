@@ -53,20 +53,6 @@ education: Multi-Modal
       university: Yonsei University
       time: 2014 - 2020
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-    assignments:
-      - title: Industrial Design Competition (엔지니어링 산업설계대전, 산업통상자원부, 3rd Award)
-        link: "#hook"
-        tagline: "Proposed Design of utilizing Deep Learning to detect Road damage through vehicle black box. Substituted a black box for a RaspberryPi 3B+ with Intel Movidius VPU and various sensors. Developed relay Module in Android and fine-tuned Mobilenet-SSD model" 
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-
 experiences:
     - role: Intern
       time: 2017 - 2018
