@@ -60,7 +60,7 @@ rojects:
     assignments:
       - title: Industrial Design Competition (엔지니어링 산업설계대전, 산업통상자원부, 3rd Award)
         link: "#hook"
-        tagline: "Proposed Design of utilizing Deep Learning to detect Road damage through vehicle black box" <br> "Substituted a black box for a RaspberryPi 3B+ with Intel Movidius VPU and various sensors."<br> "Developed relay Module in Android and fine-tuned Mobilenet-SSD model" <br>
+        tagline: "Proposed Design of utilizing Deep Learning to detect Road damage through vehicle black box. Substituted a black box for a RaspberryPi 3B+ with Intel Movidius VPU and various sensors. Developed relay Module in Android and fine-tuned Mobilenet-SSD model" 
 
       - title: DevStudio
         link: "#"
