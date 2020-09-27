@@ -53,7 +53,7 @@ education:
       university: Yonsei University
       time: 2014 - 2020
 
-projects: |
+projects: 
     title: Projects
     assignments:
       - title: Industrial Design Competition (엔지니어링 산업설계대전, 산업통상자원부, 3rd Award)
@@ -61,7 +61,7 @@ projects: |
         tagline: 
         - "Proposed Design of utilizing Deep Learning to detect Road damage through vehicle black box" <br>
         - "Substituted a black box for a RaspberryPi 3B+ with Intel Movidius VPU and various sensors."<br>
-        - "Developed relay Module in Android and fine-tuned Mobilenet-SSD model" <br> <br>
+        - "Developed relay Module in Android and fine-tuned Mobilenet-SSD model" <br>
 
       - title: A study on the Construction Methodology and Prototype System of Information Classification System (Smart System Lab, Yonsei)
         link: "#"
