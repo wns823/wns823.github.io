@@ -39,13 +39,13 @@ career-profile:
 
 publications:
     title: Paper
-    papers:
+    papers: |
       - title: CSI 와 소리 인식을 통한 실시간 헬스 모니터링 (Real Time Health Monitoring with WiFi CSI and Sound)
         link: "#"
         authors: 홍성재, 이학수, 김효주, 양성준, 한승재
         conference: 한국통신학회 (KICS, S.Korea), 2020
 
-education:
+education: |
     - degree: M.S in Artificial Intelligence
       university: KAIST
       time: 2020 - 
@@ -53,7 +53,7 @@ education:
       university: Yonsei University
       time: 2014 - 2020
 
-projects:
+projects: |
     title: Projects
     assignments:
       - title: Industrial Design Competition (엔지니어링 산업설계대전, 산업통상자원부, 3rd Award)
