@@ -55,6 +55,8 @@ education:
 
 projects: 
     title: Projects
+    intro: >
+      
     assignments:
       - title: Industrial Design Competition (엔지니어링 산업설계대전, 산업통상자원부, 3rd Award)
         link: "#"
