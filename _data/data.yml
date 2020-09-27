@@ -53,24 +53,12 @@ education:
       university: Yonsei University
       time: 2014 - 2020
 
-projects: 
-    title: Projects
-    intro: >
-      
-    assignments:
-      - title: Industrial Design Competition (엔지니어링 산업설계대전, 산업통상자원부, 3rd Award)
-        link: "#"
-        tagline: 
-        - "Proposed Design of utilizing Deep Learning to detect Road damage through vehicle black box" <br>
-        - "Substituted a black box for a RaspberryPi 3B+ with Intel Movidius VPU and various sensors."<br>
-        - "Developed relay Module in Android and fine-tuned Mobilenet-SSD model" <br>
-
-      - title: A study on the Construction Methodology and Prototype System of Information Classification System (Smart System Lab, Yonsei)
-        link: "#"
-        tagline:
-        - "Objective of Project is to propose contradiction-reasoning based on Ontology for industrial document." <br>
-        - "My task is to preprocess various types of data on a rule-based basis for Elastic-search migration and utilize NLTK and spaCy for dependency parsing." <br>
-    
+experiences:
+    - role: Intern
+      time: 2017 - 2018
+      company: CCNI Research, South Korea
+      details: |
+        Thanks to the CEO of CCNI Research, I had an opportunity to work. I mainly managed the homepage and database. Also, I was able to learn a little about statistics and COPD.
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
