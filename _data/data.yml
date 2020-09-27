@@ -28,10 +28,10 @@ career-profile:
       Program Synthesis in Healthcare
       <br>
       - General Interest <br>
-      Knowledge Graph, Self-supervised, Reinforcement Learning
+      Knowledge Graph, Multimodal, Self-supervised, Reinforcement Learning
       <br>
       - Liking <br>
-      The Kop, Burger, IU's song, Travel
+      The Kop, Burger, IU's song, Travel, A Hard but fun thing
       <br>
       - I want to say <br>
       Sorry for my faults last day and thankful to everyone. <br>
@@ -45,13 +45,27 @@ publications:
         authors: 홍성재, 이학수, 김효주, 양성준, 한승재
         conference: 한국통신학회 (KICS, S.Korea), 2020
 
-education: 
+education: Multi-Modal
     - degree: M.S in Artificial Intelligence
       university: KAIST
       time: 2020 - 
     - degree: B.S in Computer Science
       university: Yonsei University
       time: 2014 - 2020
+
+rojects:
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+    assignments:
+      - title: Industrial Design Competition (엔지니어링 산업설계대전, 산업통상자원부, 3rd Award)
+        link: "#hook"
+        tagline: "Proposed Design of utilizing Deep Learning to detect Road damage through vehicle black box" <br> "Substituted a black box for a RaspberryPi 3B+ with Intel Movidius VPU and various sensors."<br> "Developed relay Module in Android and fine-tuned Mobilenet-SSD model" <br>
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
 
 experiences:
     - role: Intern
