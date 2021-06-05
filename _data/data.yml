@@ -24,38 +24,37 @@ career-profile:
       <br> <br>
       - Main Research Area
       <br>
-      Neural Machine Translation (multilingual, unsupervised) <br>
-      Program Synthesis in Healthcare
+      Federated learning <br>
+      Differential privacy <br>
+      Text generation in Health care <br>
       <br> <br>
       - General Interest <br>
       Machine Learning for Healthcare, Natural Language Processing, Multimodal Learning
       <br> <br>
       - Liking <br>
-      Travel, Burger, IU's song, Sacchism, Liverpool F.C.
-      <br> <br>
-      - I want to say <br>
-      Always thanks to my parents, sister, and friends (Dong-uk, Dong-O, Se-chan, Ha-ram, Seong-hun, Hyo-lim, Jae-won, Keun-tae, Jin-hyung, Geongyu, Yong-kyu). <br> 
-      
+      Travel, Movie, Liverpool F.C.      
 projects:
     title: Projects
     intro: >
       
     assignments:
-      - title: Industrial Design Competition (엔지니어링 산업설계대전, 산업통상자원부, 3rd Award)<br>
+      - title: 6th Industrial Engineering Competition (Korean Ministry of Trade, Industry and Energy, 3rd Award)<br>
         link: "#hook"
-        tagline: "In the competition, I joined as a team and proposed Design of utilizing Deep Learning to detect Road damage through vehicle black box. <br> We substituted a black box for a RaspberryPi 3B+ with Intel Movidius VPU and various sensors. <br> I developed relay Module in Android and fine-tuned Mobilenet-SSD model."
-
-      - title: <br> A study on the Construction Methodology and Prototype System of Information Classification System (Smart System Lab, Yonsei)<br>
-        link: "#"
-        tagline: "Thanks to Professor Woojoo Kim, I had the opportunity to participate in the project. <br> Objective of Project is to propose contradiction-reasoning based on Ontology for industrial document. <br> My task is to preprocess various types of data on a rule-based basis for Elastic-search migration and utilize NLTK and spaCy for dependency parsing."
+        tagline: "Proposed a system for road damage management system."
 
 publications:
     title: Paper
     papers: 
-      - title: CSI 와 소리 인식을 통한 실시간 헬스 모니터링 (Real Time Health Monitoring with WiFi CSI and Sound)
+      - title: Improving Lexically Constrained Neural Machine Translation with Source-Conditioned Masked Span Prediction
+        link: "https://arxiv.org/abs/2105.05498"
+        authors: \{Gyobok Lee, Seongjun Yang}*, Edward Choi
+        conference: ACL, 2021
+
+
+      - title: Real Time Health Monitoring with WiFi CSI and Sound (Domestic paper)
         link: "#"
-        authors: 홍성재, 이학수, 김효주, 양성준, 한승재
-        conference: 한국통신학회 (KICS, S.Korea), 2020
+        authors: Seongjae Hong, Haksu Lee, Hyoju Kim, Seongjun Yang, Seungjae Han
+        conference: KICS, S.Korea, 2020
 
 education: 
     - degree: M.Sc in Artificial Intelligence
@@ -66,12 +65,6 @@ education:
       time: 2014 - 2020
 
 experiences:
-    - role: T.A
-      time: 2020.09 - 2020.12
-      company: Programming for AI (AI504), KAIST A.I Graduate class
-      details: |
-        I gave practical classes.
-
     - role: Intern
       time: 2017 - 2018
       company: CCNI Research, South Korea
