@@ -26,7 +26,7 @@ career-profile:
       <br>
       Federated learning <br>
       Differential privacy <br>
-      Text generation in Health care <br>
+      Text generation in Healthcare <br>
       <br> <br>
       - General Interest <br>
       Machine Learning for Healthcare, Natural Language Processing, Multimodal Learning
@@ -47,8 +47,8 @@ publications:
     papers: 
       - title: Improving Lexically Constrained Neural Machine Translation with Source-Conditioned Masked Span Prediction
         link: "https://arxiv.org/abs/2105.05498"
-        authors: Gyobok Lee*, Seongjun Yang*, Edward Choi
-        conference: ACL, 2021
+        authors: Gyubok Lee*, Seongjun Yang*, Edward Choi
+        conference: Proc. of Association of Computational Linguistics(ACL), 2021 (Oral)
 
 
       - title: Real Time Health Monitoring with WiFi CSI and Sound (Domestic paper)
