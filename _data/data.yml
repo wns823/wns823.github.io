@@ -24,12 +24,9 @@ career-profile:
       <br> <br>
       - Main Research Area
       <br>
-      Federated learning <br>
-      Differential privacy <br>
-      Text generation in Healthcare <br>
-      <br> <br>
-      - General Interest <br>
-      Machine Learning for Healthcare, Natural Language Processing, Multimodal Learning
+      Natural Language Processing <br>
+      Federated Learning <br>
+      Machine learning for Healthcare <br>
       <br> <br>
       - Liking <br>
       Travel, Movie, Liverpool F.C.      
@@ -45,7 +42,15 @@ projects:
 publications:
     title: Paper
     papers: 
-      - title: Improving Lexically Constrained Neural Machine Translation with Source-Conditioned Masked Span Prediction
+
+      - title: "EHRSQL: A Practical Text-to-SQL Benchmark for Electronic Health Records"
+        link: "https://openreview.net/forum?id=B2W8Vy0rarw"
+        authors: Gyubok Lee, Hyeonji Hwang, Seongsu Bae, Yeonsu Kwon, Woncheol Shin, Seongjun Yang, Minjoon
+Seo, Jong-Yeup Kim, Edward Choi
+        conference: 
+
+
+      - title: "Improving Lexically Constrained Neural Machine Translation with Source-Conditioned Masked Span Prediction"
         link: "https://arxiv.org/abs/2105.05498"
         authors: Gyubok Lee*, Seongjun Yang*, Edward Choi
         conference: Proc. of Association of Computational Linguistics(ACL), 2021 (Oral)
