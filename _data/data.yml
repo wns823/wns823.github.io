@@ -43,14 +43,14 @@ publications:
     title: Paper
     papers: 
 
-      - title: "Towards the Practical Utility of Federated Learning in the Medical Domain"
+      - title: Towards the Practical Utility of Federated Learning in the Medical Domain
         link: "https://arxiv.org/abs/2207.03075"
         authors: Seongjun Yang, Hyeonji Hwang, Daeyoung Kim, Radhika Dua, Jong-Yeup Kim, Eunho Yang, Edward
 Choi
         conference: arXiv preprint arXiv:2207.03075
 
 
-      - title: "Improving Lexically Constrained Neural Machine Translation with Source-Conditioned Masked Span Prediction"
+      - title: Improving Lexically Constrained Neural Machine Translation with Source-Conditioned Masked Span Prediction
         link: "https://arxiv.org/abs/2105.05498"
         authors: Gyubok Lee*, Seongjun Yang*, Edward Choi
         conference: Proc. of Association of Computational Linguistics(ACL), 2021 (Oral)
