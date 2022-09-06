@@ -43,7 +43,7 @@ publications:
         authors: Seongjun Yang, Hyeonji Hwang, Daeyoung Kim, Radhika Dua, Jong-Yeup Kim, Eunho Yang, Edward Choi
         conference: Under review
 
-      - title: EHRSQL$:$ A Practical Text-to-SQL Benchmark for Electronic Health Records
+      - title: "EHRSQL: A Practical Text-to-SQL Benchmark for Electronic Health Records"
         link: "https://openreview.net/pdf?id=B2W8Vy0rarw"
         authors: Gyubok Lee, Hyeonji Hwang, Seongsu Bae, Yeonsu Kwon, Woncheol Shin, Seongjun Yang, Minjoon Seo, Jongyeup Kim, Edward Choi
         conference: Under review
