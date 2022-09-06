@@ -69,11 +69,24 @@ education:
       time: 2014 - 2020
 
 experiences:
+    - role: Teaching Assistant
+      time: 2020.09 - 2021.12
+      company: KAIST A.I Graduate school
+      details: |
+        Machine Learning for Healthcare (AI612), Programming for AI (AI504)
+
     - role: Intern
       time: 2017 - 2018
       company: CCNI Research, South Korea
       details: |
         Thanks to the CEO of CCNI Research, I had an opportunity to work. I mainly managed the homepage and database.
+
+    - role: Sergeant
+      time: 2015 - 2016
+      company: R.O.K Army
+      details: |
+        Administrative clerk
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
