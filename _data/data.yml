@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Seongjun Yang
-    tagline: M.S Student in KAIST A.I
+    tagline: M.S in KAIST A.I
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -20,10 +20,8 @@ sidebar:
 career-profile:
     title: Who I am
     summary: |
-      I investigate various open real-world problems that can be accessed by machine learning.      
-      # <br> <br>
-      # - Liking <br>
-      # Travel, Movie, Liverpool F.C.      
+      I investigate various open real-world problems that can be accessed by machine learning.  
+
 projects:
     title: Project
     intro: >
@@ -37,33 +35,33 @@ publications:
     title: Paper
     papers: 
 
-        title: Towards the Practical Utility of Federated Learning in the Medical Domain
+      - title: Towards the Practical Utility of Federated Learning in the Medical Domain
         link: "https://arxiv.org/abs/2207.03075"
         authors: Seongjun Yang, Hyeonji Hwang, Daeyoung Kim, Radhika Dua, Jong-Yeup Kim, Eunho Yang, Edward Choi
         conference: Under review
 
-        title: "EHRSQL: A Practical Text-to-SQL Benchmark for Electronic Health Records"
+      - title: "EHRSQL: A Practical Text-to-SQL Benchmark for Electronic Health Records"
         link: "https://openreview.net/pdf?id=B2W8Vy0rarw"
         authors: Gyubok Lee, Hyeonji Hwang, Seongsu Bae, Yeonsu Kwon, Woncheol Shin, Seongjun Yang, Minjoon Seo, Jongyeup Kim, Edward Choi
         conference: Under review
 
-        title: Task Agnostic and Post-hoc Unseen Distribution Detection
+      - title: Task Agnostic and Post-hoc Unseen Distribution Detection
         link: "https://arxiv.org/abs/2207.13083"
         authors: Radhika Dua, Seongjun Yang, Yixuan Li, Edward Choi
         conference: Proc. of Winter Conference on Applications of Computer Vision (WACV) 2023
 
-        title: Improving Lexically Constrained Neural Machine Translation with Source-Conditioned Masked Span Prediction
+      - title: Improving Lexically Constrained Neural Machine Translation with Source-Conditioned Masked Span Prediction
         link: "https://arxiv.org/abs/2105.05498"
         authors: Gyubok Lee*, Seongjun Yang*, Edward Choi
         conference: Proc. of Association of Computational Linguistics(ACL), 2021 (Oral)
 
-        title: Real Time Health Monitoring with WiFi CSI and Sound (Domestic paper)
+      - title: Real Time Health Monitoring with WiFi CSI and Sound (Domestic paper)
         link: "#"
         authors: Seongjae Hong, Haksu Lee, Hyoju Kim, Seongjun Yang, Seungjae Han
         conference: KICS, S.Korea, 2020
 
 education: 
-    - degree: M.Sc in Artificial Intelligence
+    - degree: M.S in Artificial Intelligence
       university: KAIST
       time: 2020 - 2022
     - degree: B.S in Computer Science
