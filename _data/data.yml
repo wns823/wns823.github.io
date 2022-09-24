@@ -43,7 +43,7 @@ publications:
       - title: "EHRSQL: A Practical Text-to-SQL Benchmark for Electronic Health Records"
         link: "https://openreview.net/pdf?id=B2W8Vy0rarw"
         authors: Gyubok Lee, Hyeonji Hwang, Seongsu Bae, Yeonsu Kwon, Woncheol Shin, Seongjun Yang, Minjoon Seo, Jongyeup Kim, Edward Choi
-        conference: Under review
+        conference: Proc. of Neural Information Processing Systems (NeurIPS) 2022 Datasets and Benchmarks
 
       - title: Task Agnostic and Post-hoc Unseen Distribution Detection
         link: "https://arxiv.org/abs/2207.13083"
@@ -53,7 +53,7 @@ publications:
       - title: Improving Lexically Constrained Neural Machine Translation with Source-Conditioned Masked Span Prediction
         link: "https://arxiv.org/abs/2105.05498"
         authors: Gyubok Lee*, Seongjun Yang*, Edward Choi
-        conference: Proc. of Association of Computational Linguistics(ACL), 2021 (Oral)
+        conference: Proc. of Association of Computational Linguistics (ACL), 2021 (Oral)
 
       - title: Real Time Health Monitoring with WiFi CSI and Sound (Domestic paper)
         link: "#"
