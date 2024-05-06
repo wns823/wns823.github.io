@@ -38,7 +38,7 @@ publications:
       - title: "Predictive Pipelined Decoding: A Compute-Latency Trade-off for Exact LLM Decoding"
         link: "https://arxiv.org/abs/2307.05908"
         authors: Seongjun Yang*, Gibbeum Lee*, Jaewoong Cho, Dimitris Papailiopoulos, and Kangwook Lee
-        conference: Transactions on Machine Learning Research 2024
+        conference: Transactions on Machine Learning Research (TMLR) 2024
 
       - title: Towards the Practical Utility of Federated Learning in the Medical Domain
         link: "https://arxiv.org/abs/2207.03075"
