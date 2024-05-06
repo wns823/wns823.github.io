@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Seongjun Yang
-    tagline: A.I Researcher
+    tagline: A.I Research Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -35,30 +35,35 @@ publications:
     title: Paper
     papers: 
 
+      - title: "Predictive Pipelined Decoding: A Compute-Latency Trade-off for Exact LLM Decoding"
+        link: "https://arxiv.org/abs/2307.05908"
+        authors: Seongjun Yang*, Gibbeum Lee*, Jaewoong Cho, Dimitris Papailiopoulos, and Kangwook Lee
+        conference: Transactions on Machine Learning Research 2024
+
       - title: Towards the Practical Utility of Federated Learning in the Medical Domain
         link: "https://arxiv.org/abs/2207.03075"
-        authors: Seongjun Yang, Hyeonji Hwang, Daeyoung Kim, Radhika Dua, Jong-Yeup Kim, Eunho Yang, Edward Choi
-        conference: Under review
-
-      - title: "EHRSQL: A Practical Text-to-SQL Benchmark for Electronic Health Records"
-        link: "https://openreview.net/pdf?id=B2W8Vy0rarw"
-        authors: Gyubok Lee, Hyeonji Hwang, Seongsu Bae, Yeonsu Kwon, Woncheol Shin, Seongjun Yang, Minjoon Seo, Jongyeup Kim, Edward Choi
-        conference: Proc. of Neural Information Processing Systems (NeurIPS) 2022 Datasets and Benchmarks
+        authors: Seongjun Yang*, Hyeonji Hwang*, Daeyoung Kim, Radhika Dua, Jong-Yeup Kim, Eunho Yang, Edward Choi
+        conference: Proc. of Conference on Health, Inference, and Learning (CHIL) 2023
 
       - title: Task Agnostic and Post-hoc Unseen Distribution Detection
         link: "https://arxiv.org/abs/2207.13083"
         authors: Radhika Dua, Seongjun Yang, Yixuan Li, Edward Choi
         conference: Proc. of Winter Conference on Applications of Computer Vision (WACV) 2023
 
+      - title: "EHRSQL: A Practical Text-to-SQL Benchmark for Electronic Health Records"
+        link: "https://openreview.net/pdf?id=B2W8Vy0rarw"
+        authors: Gyubok Lee, Hyeonji Hwang, Seongsu Bae, Yeonsu Kwon, Woncheol Shin, Seongjun Yang, Minjoon Seo, Jongyeup Kim, Edward Choi
+        conference: Proc. of Neural Information Processing Systems (NeurIPS) 2022 Datasets and Benchmarks
+
+      - title: Universal EHR Federated Learning Framework
+        link: "https://arxiv.org/abs/2211.07300"
+        authors: Junu Kim, Kyunghoon Hur, Seongjun Yang, Edward Choi
+        conference: In Extended abstract in Machine Learning for Health (ML4H) 2022
+
       - title: Improving Lexically Constrained Neural Machine Translation with Source-Conditioned Masked Span Prediction
         link: "https://arxiv.org/abs/2105.05498"
         authors: Gyubok Lee*, Seongjun Yang*, Edward Choi
         conference: Proc. of Association of Computational Linguistics (ACL), 2021 (Oral)
-
-      - title: Real Time Health Monitoring with WiFi CSI and Sound (Domestic paper)
-        link: "#"
-        authors: Seongjae Hong, Haksu Lee, Hyoju Kim, Seongjun Yang, Seungjae Han
-        conference: KICS, S.Korea, 2020
 
 education: 
     - degree: M.S in Artificial Intelligence
@@ -69,17 +74,26 @@ education:
       time: 2014 - 2020
 
 experiences:
-    - role: Teaching Assistant
+
+    - role: NLP/Chatbot Research Engineer
+      time: 2022.11 - 
+      company: KRAFTON
+      details: |
+        Instruct-tuning and developing prompting strategies for in-game applications
+
+    - role: AI researcher
+      time: 2022.10 - 2022.11
+      company: NHN Cloud
+      details: |
+        Benchmarking Korean Language Models
+
+
+    - role: Graduate Student Researcher
       time: 2020.09 - 2021.12
       company: KAIST A.I Graduate school
       details: |
-        Machine Learning for Healthcare (AI612), Programming for AI (AI504)
-
-    - role: Intern
-      time: 2017 - 2018
-      company: CCNI Research, South Korea
-      details: |
-        Thanks to the CEO of CCNI Research, I had an opportunity to work. I mainly managed the homepage and database.
+        Selected to be a Graduate Student Researcher at the Graduate School of AI, Korea Advanced Institute of Science and Technology (KAIST) under the guidance of Prof. Edward Choi. Research areas included Federated Learning and Natural Language Processing.
+        Served as a teaching assistant for courses tiled "Machine Learning for Healthcare ", and "Programming for AI" instructed by Prof. Edward Choi. Duties included leading tutorials for groups of up to 100 students, demonstrating key coding skills, and managing class assignments.
 
     - role: Sergeant
       time: 2015.02 - 2016.11
