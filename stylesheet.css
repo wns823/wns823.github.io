@@ -669,8 +669,7 @@ h2 {
   box-shadow: 0 0 0 1px #9eb6b2;
 }
 
-.publication-year,
-.publication-status {
+.publication-year {
   position: absolute;
   top: 0;
   left: 0;
@@ -684,11 +683,6 @@ h2 {
   font-weight: 700;
   line-height: 1.5;
   text-align: center;
-}
-
-.publication-status {
-  width: 58px;
-  font-size: 0.6rem;
 }
 
 .research-publication h4 {
