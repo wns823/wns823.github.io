@@ -601,33 +601,6 @@ h2 {
   line-height: 1.08;
 }
 
-.publication-filters {
-  display: inline-flex;
-  gap: 4px;
-  padding: 4px;
-  background: #e6ece8;
-  border-radius: 999px;
-}
-
-.filter-button {
-  padding: 6px 12px;
-  color: var(--muted);
-  background: transparent;
-  border: 0;
-  border-radius: 999px;
-  font: 700 0.72rem/1.4 var(--sans);
-  cursor: pointer;
-}
-
-.filter-button:hover {
-  color: var(--ink);
-}
-
-.filter-button.is-active {
-  color: var(--paper);
-  background: var(--accent);
-}
-
 .publication-note {
   margin-bottom: 38px;
   color: var(--muted);
@@ -636,11 +609,6 @@ h2 {
 
 .research-group {
   margin-top: 44px;
-}
-
-.research-group[hidden],
-.research-publication[hidden] {
-  display: none;
 }
 
 .research-group > h3 {

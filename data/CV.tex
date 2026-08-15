@@ -1,0 +1,131 @@
+\documentclass[10pt,letterpaper]{article}
+
+\usepackage[margin=0.62in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{enumitem}
+\usepackage{tabularx}
+\usepackage{titlesec}
+\usepackage[hidelinks]{hyperref}
+
+\definecolor{accent}{HTML}{0E6972}
+\definecolor{muted}{HTML}{56676A}
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\setlist[itemize]{leftmargin=1.3em,itemsep=1.5pt,topsep=2pt,parsep=0pt}
+\titleformat{\section}{\large\bfseries\color{accent}}{}{0pt}{}[\vspace{-4pt}\color{accent!35}\rule{\linewidth}{0.4pt}]
+\titlespacing*{\section}{0pt}{8pt}{5pt}
+
+\newcommand{\entry}[4]{%
+  \textbf{#1}\hfill {\small #2}\\[-1pt]
+  \textit{#3}\hfill \textit{\small #4}\par\vspace{2pt}
+}
+\newcommand{\publication}[2]{%
+  \begin{minipage}[t]{0.105\linewidth}\small\color{muted}#1\end{minipage}%
+  \begin{minipage}[t]{0.885\linewidth}\small #2\end{minipage}\par\vspace{3pt}
+}
+
+\begin{document}
+
+\begin{center}
+  {\fontsize{22}{25}\selectfont\bfseries Seongjun Yang}\\[4pt]
+  \small
+  \href{mailto:wns7169@gmail.com}{wns7169@gmail.com}
+  \enspace$\cdot$\enspace \href{https://wns823.github.io/}{wns823.github.io}
+  \enspace$\cdot$\enspace \href{https://scholar.google.com/citations?user=OxSABfkAAAAJ\&hl=en}{Google Scholar}
+  \enspace$\cdot$\enspace \href{https://github.com/wns823}{GitHub}
+  \enspace$\cdot$\enspace \href{https://www.linkedin.com/in/seongjun-yang-b338061b0}{LinkedIn}
+\end{center}
+
+\section*{Research Interests}
+I develop AI methods that move beyond black-box prediction to uncover interpretable, mechanistic insights from genomic data. My interests include regulatory genomics, genomic foundation models, model robustness, and evidence-grounded evaluation, with an emphasis on generating testable biological hypotheses for precision medicine and longevity healthcare.
+
+\section*{Education}
+\entry{Cold Spring Harbor Laboratory}{Cold Spring Harbor, NY}{Ph.D. Student}{2026 -- Present}
+Advisor: \href{https://koo-lab.github.io/people/peter_koo/index.html}{Prof. Peter Koo}. Research in interpretable and robust AI for genomics.
+
+\vspace{4pt}
+\entry{Korea Advanced Institute of Science and Technology (KAIST)}{South Korea}{M.S. in Artificial Intelligence}{Sep 2020 -- Aug 2022}
+Advisor: Prof. Edward Choi. Thesis: \textit{Towards the Practical Utility of Federated Learning in the Medical Domain}.
+
+\vspace{4pt}
+\entry{Yonsei University}{South Korea}{B.S. in Computer Science, Magna Cum Laude}{Mar 2014 -- Aug 2020}
+Department Prizes for Outstanding Student Performance; full scholarship (2017--2019).
+
+\section*{Ongoing Research}
+\publication{Under review}{\textbf{PBISC: Reference-free Single-cell-resolution Deconvolution of PBMC Bulk RNA-seq}.}
+\publication{Under review}{\textbf{RNA-LLM: Transcriptomes as One Language-model Token}.}
+
+\section*{Selected Publications}
+\publication{2026}{Kyunghoon Hur, Eunjung Jeon, Hyun Woo Kim, Gyubok Lee, and \textbf{Seongjun Yang}. \href{https://arxiv.org/abs/2607.20539}{\textit{Leveraging Biokinetic Knowledge Priors for Data-Scarce Bioprocess Modeling}}. ICML AI for Science Workshop.}
+
+\publication{2025}{Suhyeong Kim, \textbf{Seongjun Yang}, and Seongwoo Kim. \href{https://aisel.aisnet.org/pacis2025/aiandml/aiandml/2/}{\textit{Assessing Patent Value with LLMs: DRAM Dataset}}. PACIS.}
+
+\publication{2024}{\textbf{Seongjun Yang*}, Gibbeum Lee*, Jaewoong Cho, Dimitris Papailiopoulos, and Kangwook Lee. \href{https://arxiv.org/abs/2307.05908}{\textit{Predictive Pipelined Decoding: A Compute-Latency Trade-off for Exact LLM Decoding}}. TMLR.}
+
+\publication{2023}{\textbf{Seongjun Yang*}, Hyeonji Hwang*, Daeyoung Kim, Radhika Dua, Jong-Yeup Kim, Eunho Yang, and Edward Choi. \href{https://arxiv.org/abs/2110.09276}{\textit{Towards the Practical Utility of Federated Learning in the Medical Domain}}. CHIL.}
+
+\publication{2023}{Radhika Dua, \textbf{Seongjun Yang}, Yixuan Li, and Edward Choi. \href{https://arxiv.org/abs/2207.13083}{\textit{Task Agnostic and Post-hoc Unseen Distribution Detection}}. WACV.}
+
+\publication{2022}{Gyubok Lee, Hyeonji Hwang, Seongsu Bae, Yeonsu Kwon, Woncheol Shin, \textbf{Seongjun Yang}, Minjoon Seo, Jong-Yeup Kim, and Edward Choi. \href{https://proceedings.neurips.cc/paper_files/paper/2022/hash/643e347250cf9289e5a2a6c1ed5ee42e-Abstract-Datasets_and_Benchmarks.html}{\textit{EHRSQL: A Practical Text-to-SQL Benchmark for Electronic Health Records}}. NeurIPS Datasets and Benchmarks.}
+
+\publication{2022}{Junu Kim, Kyunghoon Hur, \textbf{Seongjun Yang}, and Edward Choi. \textit{Universal EHR Federated Learning Framework}. ML4H Extended Abstract.}
+
+\publication{2021}{Gyubok Lee*, \textbf{Seongjun Yang*}, and Edward Choi. \href{https://aclanthology.org/2021.acl-short.94/}{\textit{Improving Lexically Constrained Neural Machine Translation with Source-Conditioned Masked Span Prediction}}. ACL-IJCNLP (Short Papers).}
+
+{\small * Equal contribution.}
+
+\newpage
+\section*{Professional Experience}
+\entry{Gruve AI}{United States (Remote)}{AI Researcher}{Dec 2025 -- May 2026}
+\begin{itemize}
+  \item Developed AI agents in collaboration with a genetic testing company.
+\end{itemize}
+
+\entry{KRAFTON AI}{South Korea}{NLP Research Engineer}{Nov 2022 -- 2025}
+\begin{itemize}
+  \item Researched LLM post-training, efficient inference, model compression, and language-model applications for games.
+  \item Developed instruction-tuning and prompting strategies for large language models.
+  \item Projects included Predictive Pipelined Decoding, KORani, and AutoEvalGPT.
+\end{itemize}
+
+\entry{NHN Cloud}{South Korea}{AI Researcher}{Oct 2022 -- Nov 2022}
+\begin{itemize}
+  \item Designed tutorials and evaluation workflows for Korean language models.
+\end{itemize}
+
+\entry{KAIST}{South Korea}{Graduate Student Researcher}{Sep 2020 -- Aug 2022}
+\begin{itemize}
+  \item Researched federated learning, healthcare AI, distribution shifts, and natural language processing under Prof. Edward Choi.
+  \item Served as a teaching assistant for Machine Learning for Healthcare and Programming for AI.
+\end{itemize}
+
+\section*{Teaching}
+\entry{KAIST AI612: Machine Learning for Healthcare}{}{Teaching Assistant}{2020 -- 2021}
+Led tutorials, managed assignments, and demonstrated core machine-learning implementations.
+
+\vspace{4pt}
+\entry{KAIST AI504: Programming for AI}{}{Teaching Assistant}{2020 -- 2021}
+Supported programming tutorials and assignments for classes of up to 100 students.
+
+\section*{Community}
+\textbf{Co-founder, \href{https://www.virtualhumanlab.com/}{Virtual Human Lab}.} Korea-based BioAI research collective connecting clinicians and AI researchers to study human biology with computational methods.
+
+\section*{Awards \& Scholarships}
+\begin{itemize}
+  \item Department Prize for Outstanding Student Performance, Yonsei University (2019, 2020; top 3\%).
+  \item 3rd Prize, Graduation Capstone Design, Yonsei University (2019).
+  \item 3rd Prize, Industrial Engineering Competition, Korean Ministry of Trade, Industry and Energy (2018).
+  \item Research Assistant Scholarship, KAIST (2020--2022); Full Scholarship, Yonsei University (2017--2019).
+\end{itemize}
+
+\section*{Technical Skills}
+\textbf{Programming:} Python, C/C++ \quad
+\textbf{Machine Learning:} PyTorch, TensorFlow \quad
+\textbf{Tools:} Git, Linux, \LaTeX
+
+\end{document}
