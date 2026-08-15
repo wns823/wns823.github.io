@@ -469,8 +469,8 @@ h2 {
 .past-copy p {
   color: #435558;
   font-family: var(--serif);
-  font-size: clamp(1.22rem, 2vw, 1.48rem);
-  line-height: 1.55;
+  font-size: clamp(1.05rem, 1.6vw, 1.22rem);
+  line-height: 1.65;
 }
 
 .contact-banner {
